@@ -6,8 +6,8 @@
  * DATE STARTED 03RD/10/2017                  *
  * DATE ENDED 06TH/10/2017                    *
  * INSTITUTION INTITUTE OF MANAGEMENT STUDIES *
- * EMAIL STONY5913@GMAIL.COM                  *
- * TEL NO. +918726770903                      * 
+ * EMAIL alexmercerr07@GMAIL.COM              *
+ * TEL NO. +918586047520                      * 
  *********************************************/
 //==============================================================================
 //                           LIBRARIES OR HEADERZ
